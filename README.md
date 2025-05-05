@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou atualmente trabalhando em projetos pessoais de desenvolvimento web com foco em JavaScript e Node.js.<br><br>👯 Estou procurando colaborar em projetos de código aberto relacionados ao desenvolvimento web e ao ecossistema Node.js.<br><br>🤝 Estou buscando aprofundar meu conhecimento em React e suas melhores práticas de desenvolvimento.<br> <br>🌱 Estou aprendendo atualmente React para expandir meu conjunto de habilidades no desenvolvimento web.<br><br>⚡ Sou um entusiasta de jogos multiplayer e esse fascínio me impulsionou a desenvolver alguns jogos online, explorando as maravilhas dos websockets para criar experiências interativas e envolventes.
+🔭 Estou atualmente trabalhando em projetos pessoais de desenvolvimento web com foco em JavaScript e Node.js.<br><br>👯 Estou procurando colaborar em projetos de código aberto relacionados ao desenvolvimento web e ao ecossistema Node.js.<br><br>🤝 Estou buscando aprofundar meu conhecimento em React e suas melhores práticas de desenvolvimento.<br> <br>🌱 Estou aprendendo atualmente React para expandir meu conjunto de habilidades no desenvolvimento web.<br>
 
 
 ## 🌐 Minhas Redes Sociais:
@@ -14,9 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codingwithvm&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 Donate
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vctormndes@gmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
